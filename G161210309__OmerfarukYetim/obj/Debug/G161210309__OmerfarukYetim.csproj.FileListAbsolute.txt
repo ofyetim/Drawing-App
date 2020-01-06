@@ -1,0 +1,10 @@
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\bin\Debug\G161210309__OmerfarukYetim.exe.config
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\bin\Debug\G161210309__OmerfarukYetim.exe
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\bin\Debug\G161210309__OmerfarukYetim.pdb
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\obj\Debug\G161210309__OmerfarukYetim.csprojResolveAssemblyReference.cache
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\obj\Debug\G161210309__OmerfarukYetim.Form1.resources
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\obj\Debug\G161210309__OmerfarukYetim.Properties.Resources.resources
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\obj\Debug\G161210309__OmerfarukYetim.csproj.GenerateResource.Cache
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\obj\Debug\G161210309__OmerfarukYetim.csproj.CoreCompileInputs.cache
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\obj\Debug\G161210309__OmerfarukYetim.exe
+c:\users\ofyetim\source\repos\G161210309__OmerfarukYetim\G161210309__OmerfarukYetim\obj\Debug\G161210309__OmerfarukYetim.pdb
